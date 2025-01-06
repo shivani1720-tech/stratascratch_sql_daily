@@ -1,6 +1,8 @@
 --Calculate Average Score
 --Calculate the average score for each project, but only include projects where more than one team member has provided a score.
 --Your output should include the project ID and the calculated average score for each qualifying project.
+-- Interview Question Date: October 2024 
+-- Company: Deloitte
 
 --Table: project_data
   date: date
