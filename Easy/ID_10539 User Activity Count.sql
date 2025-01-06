@@ -1,5 +1,6 @@
 -- User Activity Count
 -- Interview Question Date: October 2024
+-- Company: Meta
 /*
 Question
 Count the unique activity types for each user, ensuring users with no activities are also included.
