@@ -4,3 +4,6 @@ Interview Question Date: December 2023
 Company Name: Amazon
 */
 
+For each week, find the total quantity across all orders of that week. Include only the orders that are from the first quarter of 2023.
+The output should contain 'week' and 'quantity'.
+
